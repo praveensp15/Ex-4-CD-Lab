@@ -13,8 +13,8 @@ To write a YACC program to recognize a valid variable which starts with a letter
 7.	Compile these with the C compiler as gcc lex.yy.c y.tab.c
 8.	Enter a statement as input and the valid variables are identified as output.
 # PROGRAM
-# NAME: D.VISHWA
-# REG NO:2305001034 
+# NAME: S praveen
+# REG NO:2305001027 
 %%writefile ex4.l
  ```
 %{
